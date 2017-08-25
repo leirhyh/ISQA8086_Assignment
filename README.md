@@ -1,7 +1,7 @@
-#Summary
+#Summary  
 This repository contained data analysis and visualization scripts which I've written for the assignment of ISQA8086-002 Data to decision class. Almost all are written in R.
 
-##[Markdown Training](https://www.markdowntutorial.com)
+##[Markdown Training](https://www.markdowntutorial.com)  
 ###[Tips for Markdown](https://www.markdowntutorial.com)
 * italicized indicated with _ surronding the words.
 * Bold showed with ** surronding the words.
