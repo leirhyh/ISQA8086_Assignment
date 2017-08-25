@@ -1,7 +1,7 @@
 **Summary**  
 This repository contained data analysis and visualization scripts which I've written for the assignment of ISQA8086-002 Data to decision class. Almost all are written in R.
 
-##[Markdown Training](https://www.markdowntutorial.com)  
+**[Markdown Training]**(https://www.markdowntutorial.com)  
 ###[Tips for Markdown](https://www.markdowntutorial.com)
 * italicized indicated with _ surronding the words.
 * Bold showed with ** surronding the words.
@@ -19,17 +19,17 @@ This repository contained data analysis and visualization scripts which I've wri
 4. http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/
 5. https://www.markdownguide.org
 
-##Information Seeking  
+**Information Seeking**  
 
-##Data Entry Analysis  
+**Data Entry Analysis**  
 
-##Peer Review 1
+**Peer Review 1**
 
-##Peer Review 2
+**Peer Review 2**
 
-##The MIT License (MIT)
+**The MIT License (MIT)**
 
-#Copyright (c) 2017 Runhua Lei    
+_Copyright (c) 2017 Runhua Lei_      
 All rights reserved.
 
 The following conditions are met while Redistributing and using in source and binary forms, with or without modification:
