@@ -5,7 +5,7 @@ This repository contained data analysis and visualization scripts which I've wri
 [Tips for Markdown](https://www.markdowntutorial.com)
 * italicized indicated with "_" surrounding the words.
 * Bold showed with "**" surrounding the words.
-* Header presented with one # to six #. 
+* Header presented with one "#" to six "#". 
 * inline link: you wrap link text in brackets [ ], and wrap the link in parenthesis( ).
 * Reference link:  link is a reference to another place in the document.
 * images link: similar to url link, add "!" before inline link or reference link
@@ -34,7 +34,7 @@ _Copyright (c) 2017 Runhua Lei_
 The following conditions are met while Redistributing and using in source and binary forms, with or without modification:
 >The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software and documents.
 
-THE SOFTWARE AND DOCUMENTS ARE PROVIDED BY THE AUTHOR "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE AUTHORS OR COPYRIGHT HOLDERS, IN NO EVENT, SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR RELATING TO THE SOFTWARE AND DOCUMENTS OR THE USE OR OTHER DEALINGS IN THE SOFTWARE AND DOCUMENTS.
+THE SOFTWARE AND DOCUMENTS ARE PROVIDED BY THE AUTHOR "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PURPOSE AND NONINFRINGEMENT. THE AUTHORS OR COPYRIGHT HOLDERS, IN NO EVENT, SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR RELATING TO THE SOFTWARE AND DOCUMENTS OR THE USE OR OTHER DEALINGS IN THE SOFTWARE AND DOCUMENTS.
 
 
 
