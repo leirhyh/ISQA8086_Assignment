@@ -6,8 +6,8 @@ This repository contained data analysis and visualization scripts which I've wri
 * italicized indicated with "_" surrounding the words.
 * Bold showed with "**" surrounding the words.
 * Header presented with one "#" to six "#". 
-* inline link: you wrap link text in brackets "[ ]", and wrap the link in parenthesis"( )".
-* Reference link:  link is a reference to another place in the document.
+* inline link: you wrap url link text in brackets "[ ]", and wrap the link in parenthesis"( )".
+* Reference link:  the link is a reference to another place in the document.
 * images link: similar to url link, add "!" before inline link or reference link
 * Blockquotes presented with > before line.
 * use "*" space to present list and 1. to present ordered list
