@@ -1,8 +1,8 @@
-**Summary**  
+## Summary 
 This repository contained data analysis and visualization scripts which I've written for the assignment of ISQA8086-002 Data to decision class. Almost all are written in R.
 
-[**Markdown Training**](https://www.markdowntutorial.com)  
-[Tips for Markdown](https://www.markdowntutorial.com)
+## [**Markdown Training**](https://www.markdowntutorial.com)  
+### [Tips for Markdown](https://www.markdowntutorial.com)
 * italicized indicated with "_" surrounding the words.
 * Bold showed with "**" surrounding the words.
 * Header presented with one "#" to six "#". 
@@ -12,22 +12,22 @@ This repository contained data analysis and visualization scripts which I've wri
 * Blockquotes presented with > before line.
 * use "*" space to present list and 1. to present ordered list
 * paragraphs used empty line (hard) or two empty space (soft).
-[More reference for Markdown](https://www.markdowntutorial.com)
+### [More reference for Markdown](https://www.markdowntutorial.com)
 1. http://en.wikipedia.org/wiki/Markdown#Example
 2. http://spec.commonmark.org/dingus/
 3. http://johnmacfarlane.net/babelmark2/faq.html
 4. http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/
 5. https://www.markdownguide.org
 
-**Information Seeking**  
+## Information Seeking  
 
-**Data Entry Analysis**  
+## Data Entry Analysis  
 
-**Peer Review 1**
+## Peer Review 1
 
-**Peer Review 2**
+## Peer Review 2  
 
-**The MIT License (MIT)**
+## The MIT License (MIT)
 
 _Copyright (c) 2017 Runhua Lei_      
 
