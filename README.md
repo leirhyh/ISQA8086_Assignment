@@ -22,7 +22,7 @@ This repository contained data analysis and visualization scripts which I've wri
 
 ## Interesting Story about Michael Phelps
 1. [Did Olympic Swimmer Michael Phelps Give His Life to Christ?](http://www.crosswalk.com/blogs/religion-today-blog/did-olympic-swimmer-michael-phelps-give-his-life-to-christ.html)
-2. [Michael Phelps Says Rick Warren”s “Purpose Driven Life” Helped Get His Life Back on Track] (https://relevantmagazine.com/slices/michael-phelps-says-rick-warrens-purpose-driven-life-helped-get-his-life-back-track)  
+2. [Michael Phelps Says Rick Warren”s “Purpose Driven Life” Helped Get His Life Back on Track(https://relevantmagazine.com/slices/michael-phelps-says-rick-warrens-purpose-driven-life-helped-get-his-life-back-track)  
 
 ## Information Seeking  
 
