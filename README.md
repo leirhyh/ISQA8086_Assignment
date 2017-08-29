@@ -18,6 +18,7 @@ This repository contained data analysis and visualization scripts which I've wri
 3. http://johnmacfarlane.net/babelmark2/faq.html
 4. http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/
 5. https://www.markdownguide.org
+###[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Information Seeking  
 
