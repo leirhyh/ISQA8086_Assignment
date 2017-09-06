@@ -18,7 +18,7 @@ Detailed info about the data can be found in the paper of reference.
 
 
 ### The license or terms of use 
-The data set can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. The detailed terms of use is as [following link](http://datadryad.org/pages/policies).
+The data set is under license of CC0 1.0. The data set can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this data.
 
 ### Potential data users and decision-makers for this data
 The data may be valuable and important for Ministry of Environment & Forests, Government of India, local and domestic or international conservation agency or scientist.
