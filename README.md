@@ -25,9 +25,9 @@ This repository contained data analysis and visualization scripts which I've wri
 2. [Michael Phelps Says Rick Warren”s “Purpose Driven Life” Helped Get His Life Back on Track](https://relevantmagazine.com/slices/michael-phelps-says-rick-warrens-purpose-driven-life-helped-get-his-life-back-track)  
 
 ## Information Seeking 
-* Dataset1: Transect data at Eaglenest Wildlife Sanctuary
-* Dataset2: Cough recordings of different treatments 24hours
-* Dataset3: Fatty acid datas of prey of polar bear
+* Dataset1: [Transect data at Eaglenest Wildlife Sanctuary](https://github.com/leirhyh/ISQA8086_Assignment/tree/master/Information_Seeking)
+* Dataset2: [Cough recordings of different treatments 24hours](https://github.com/leirhyh/ISQA8086_Assignment/tree/master/Information_Seeking)
+* Dataset3: [Fatty acid datas of prey of polar bear](https://github.com/leirhyh/ISQA8086_Assignment/tree/master/Information_Seeking)
 
 ## Data Entry Analysis  
 
