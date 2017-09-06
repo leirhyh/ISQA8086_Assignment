@@ -24,7 +24,10 @@ This repository contained data analysis and visualization scripts which I've wri
 1. [Did Olympic Swimmer Michael Phelps Give His Life to Christ?](http://www.crosswalk.com/blogs/religion-today-blog/did-olympic-swimmer-michael-phelps-give-his-life-to-christ.html)
 2. [Michael Phelps Says Rick Warren”s “Purpose Driven Life” Helped Get His Life Back on Track](https://relevantmagazine.com/slices/michael-phelps-says-rick-warrens-purpose-driven-life-helped-get-his-life-back-track)  
 
-## Information Seeking  
+## Information Seeking 
+* Dataset1: Transect data at Eaglenest Wildlife Sanctuary
+* Dataset2: Cough recordings of different treatments 24hours
+* Dataset3: Fatty acid datas of prey of polar bear
 
 ## Data Entry Analysis  
 
