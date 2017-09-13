@@ -4,22 +4,22 @@
 * Temp should be with unit such as °C or °F.
 * Colony Diameter should have unit, which should be mm.
 * Variable Z should be changed to depth with unit such as m. 
-* There should be note for cell colored with yellow.
+* There should be note for cells colored with yellow.
 ## problems in File 2 (zoop-temp-main)
 * Cuni #/L don't know what it is mean.
 * Chippo #/L don't know what it is mean.
 * Temp should be with unit such as °C or °F.
-* The figure don't have label of y axis.
+* The figure doesn't have label of y axis.
 * The figure doesn't have title to explain what this graph is.
 * There should be note for *.
-* There should be note for cell colored with yellow and red.
+* There should be note for cells colored with yellow and red.
 * Chla for Chlorophyll a is still not clear.
 
 ## Problems in File 3 (zoop)
-* There should be note for cell colored with red.
+* There should be note for cells colored with red.
 * Cuni #/L don't know what it is mean.
 * Chippo #/L don't know what it is mean.
-* For Chippo #/L, there were two cell less than 0, which are mistakes.
+* For Chippo #/L, there were two cells less than 0, which are mistakes.
 * The graph was lack of label for x and y axis.
 * Without note, the calculation labeled as 7th and 9th is meaningless
 * Temp should be with unit such as °C or °F.
