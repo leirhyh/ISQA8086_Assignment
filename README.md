@@ -30,11 +30,11 @@ This repository contained data analysis and visualization scripts which I've wri
 * Dataset3: [Fatty acid datas of prey of polar bear](https://github.com/leirhyh/ISQA8086_Assignment/tree/master/Information_Seeking)
 
 ## Data Entry Analysis 
-*[Problems in File 1 (pond2010)](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
-*[problems in File 2 (zoop-temp-main)](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
-*[Problems in File 3 (zoop)](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
-*[Proposed Data Organization template was presented as follows:](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
-*[Some suggestions](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+* [Problems in File 1 (pond2010)](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+* [problems in File 2 (zoop-temp-main)](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+* [Problems in File 3 (zoop)](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+* [Proposed Data Organization template was presented as follows:](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+* [Some suggestions](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
 
 ## Peer Review 1
 
