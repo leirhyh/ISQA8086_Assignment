@@ -46,7 +46,7 @@ Notes:
 
 ## Some suggestions
 Although the above table make some obvious improvements to be made in organizing the dataset.  However, there are quite few aspects need to be clarified by the researcher or scientist: what is the purpose of collecting the data, how do they want to analyze the data, the standard termilnology of this experiment such as Chla and '#/L'.
-In my opinion, when we design our experiement, we need to design what is our goal, what data will be connected. When we collect data, we need write down as clear and detailed as possible. 
+In my opinion, when we design our experiement, we need to design what is our goal, what data will be connected. When we collect data, we need write down as clear and detailed as possible. As old saying, pay attention to detail.
 
 
 				
