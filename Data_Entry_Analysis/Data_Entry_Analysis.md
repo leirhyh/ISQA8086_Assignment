@@ -30,6 +30,7 @@
 
 
 ##Proposed Data Organization template was presented as follows:
+
 |CollectionID|Date|Temp (°C)|Depth (m)| cuniDensity (mol/L)|cuniColonySize (cm)|chippoDensity (mol/l)|chippoColonySize(mm)|Chla (?)|
 |:-------------:|:--------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 |1233|6/7/2011|14.1|0.5|72 |2.12|45|2.56|3.1|
