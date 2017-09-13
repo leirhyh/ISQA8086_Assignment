@@ -29,7 +29,12 @@ This repository contained data analysis and visualization scripts which I've wri
 * Dataset2: [Cough recordings of different treatments 24hours](https://github.com/leirhyh/ISQA8086_Assignment/tree/master/Information_Seeking)
 * Dataset3: [Fatty acid datas of prey of polar bear](https://github.com/leirhyh/ISQA8086_Assignment/tree/master/Information_Seeking)
 
-## Data Entry Analysis  
+## Data Entry Analysis 
+*[](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+*[](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+*[](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+*[](https://github.com/leirhyh/ISQA8086_Assignment/blob/master/Data_Entry_Analysis/Data_Entry_Analysis.md)
+
 
 ## Peer Review 1
 
